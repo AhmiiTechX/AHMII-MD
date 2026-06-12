@@ -4,7 +4,7 @@
 <u>⚡ A simple WhatsApp User Bot Coded By AhmiiTechX⚡</u>
 </p>
 <p align="center">
-<img src="https://files.catbox.moe/hiojig.jpg"/>       
+<img src="https://files.catbox.moe/vfr7ks.jpg"/>       
 <p align="center">
   <a href="[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•AHMII-MD•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+AhmiiTechX;RELEASED+DATE+05%2F12%2F2024." alt="Typing SVG" /></a>
 </p> 
